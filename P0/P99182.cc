@@ -1,6 +1,3 @@
-/* 
-Segueixme a Instagram! @peremirr
-*/
 
 #include <iostream>
 using namespace std;
