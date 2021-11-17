@@ -1,4 +1,6 @@
 
+/* Promedio */
+
 #include <iostream>
 using namespace std;
 
