@@ -1,4 +1,6 @@
 
+/* Suma d'un segon */
+
 #include <iostream>
 using namespace std;
 
