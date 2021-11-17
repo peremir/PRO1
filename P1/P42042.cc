@@ -9,7 +9,11 @@ int main() {
     cin >> a;
     if(a < 'a') cout << "uppercase" << endl;
     else cout << "lowercase" << endl;
-    if(a == 'a' || a == 'e' || a == 'i' || a == 'o' || a == 'u' || a == 'A' || a == 'E' || a == 'I' || a == 'O' || a == 'U') {
+    if(a == 'a' || a == 'e' || 
+       a == 'i' || a == 'o' || 
+       a == 'u' || a == 'A' || 
+       a == 'E' || a == 'I' || 
+       a == 'O' || a == 'U') {
         cout << "vowel" << endl;
     }
     else cout << "consonant" << endl;
