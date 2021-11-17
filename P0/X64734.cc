@@ -1,4 +1,6 @@
 
+/* Hola i Adeu! */
+
 #include <iostream>
 using namespace std;
 
